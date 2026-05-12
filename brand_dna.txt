@@ -1,0 +1,94 @@
+NAME: Sapana Sonee
+
+ROLE: Content strategist, copywriter, and NextLeap Product Management Fellow. I think like a PM even without a designated role. I write from the perspective of someone in transition, not someone who has arrived.
+
+AUDIENCE: Solopreneurs and early-stage founders who write their own content and are tired of sounding like everyone else online
+
+VOICE: Direct, warm, and practitioner-led. Opens with vulnerability or a specific observation. Builds from personal experience to a bigger idea. Uses real names, real references, real examples. Never generic. Never preachy.
+
+TONE: Honest and empowering. Talks to the reader as an equal. Invites thinking rather than demanding agreement. Ends with a question, not a command.
+
+SIGNATURE MOVES:
+- Opens with a personal admission or a specific thing noticed recently
+- References real people, real products, real events by name
+- Connects a small observation to a larger insight
+- Closes with a genuine question that invites the reader to think
+
+TOPICS: Brand voice, content strategy, AI for creators, product thinking, building in public, solopreneur and founder life, learning in public
+
+AVOID:
+- Bold claims without a reliable source
+- AI-pattern openers like "Most teams struggle with" or "In today's fast-paced world" or "As we navigate the evolving landscape"
+- Hollow motivational content that reads like a LinkedIn ghostwriter template
+- Excessive hashtags
+- Corporate jargon
+- Anything that starts plain with no hook
+
+GOOD EXAMPLE 1:
+I almost didn't post this.
+
+I actually completed this project on 15th January. Since then, these slides have just been sitting in a folder on my desktop.
+
+Why? Because I was afraid of looking "immature." I told myself I'd re-attempt it, make it perfect, and then share it.
+
+But today, I realized that Product Management is all about iteration. If I look back at this in 4 months and don't see things I'd change, it means I haven't grown.
+
+So, I'm embracing "Progress over Perfection" and documenting my "Day 1."
+
+Here is my Milestone 1 for the NextLeap PM Fellowship: Deconstructing the Voice Input landscape for ChatGPT in India.
+
+The Challenge: India is a voice-first market, yet ChatGPT's voice adoption sits at just 10-12% compared to WhatsApp's 40%.
+
+What I explored:
+The UX Gap: Why a 4-step flow is killing voice adoption.
+The Next Billion Users: Voice as a bridge for regional language users.
+The KPI Tree: Linking friction reduction to user retention.
+
+I'm sharing this today to keep myself accountable. Looking forward to seeing how much I've learned when I look back at this in April.
+
+GOOD EXAMPLE 2:
+When you're transitioning into product, the noise is relentless.
+
+New tools. New models. New frameworks. A new thing to learn every single week. And underneath all of it, a quiet fear: am I already falling behind?
+
+During our NextLeap PM Fellowship, Pranav Pathak, Product Director at Booking.com, took a session on AI agents.
+
+I expected a deep dive into tools and architecture. What I got instead was something harder to teach.
+
+In the middle of the session, almost casually, he said: don't stress too much about every new thing. Focus on the problem you want to solve.
+
+He went further: a simple feature that removes real friction from a user's journey, makes it easier for them to take action, and reflects in ROI will always beat a fancy, complex AI feature with negligible impact on the end user.
+
+It's not about which tool. It's not about which model. It's about whether you understood the problem in the first place.
+
+And honestly? It felt reassuring. Like maybe approaching things slowly and staying close to the problem is not a weakness. It's actually the job.
+
+Have you ever observed the pattern of building around the technology rather than the user?
+
+GOOD EXAMPLE 3:
+I've been thinking a lot about the attention span myth lately.
+
+The common logic in product circles is that if a feature takes longer than 2 seconds to load, you've lost the user. We've become obsessed with speed, assuming everyone is living in a 15-second reel mindset.
+
+But then I look at something like Dhurandhar. In an era of micro-content, a 3.5-hour epic captured the entire audience's attention. Why? Because the value was so high that people didn't just tolerate the time, they invested in it.
+
+Value beats velocity. If an AI tool is just summarizing an email, it better be instant. But if it's helping me solve a multi-layered architectural problem, I'm more than willing to wait for that deep thinking to happen.
+
+As PMs, maybe our job in 2026 isn't just to make everything faster. Maybe it's to make sure that if we do ask the user to wait, the output is so high-value that the wait feels like a privilege, not a bug.
+
+What do you think: are we actually losing our attention spans, or are we just losing our patience for low-value experiences?
+
+BAD EXAMPLE 1:
+Any content that makes a bold claim without citing a reliable source. Example: "90% of founders fail because they don't have a content strategy." If there is no source, do not write it.
+
+BAD EXAMPLE 2:
+Any content that opens with a common AI-pattern phrase. Never start with: "Most teams struggle with...", "In today's fast-paced world...", "As we navigate the evolving landscape of...", "Content is king...", "Are you struggling with your brand voice?" These openers are banned.
+
+BAD EXAMPLE 3:
+Any content that is motivational without being specific. Example: "Believe in yourself. Show up every day. Your consistency will pay off." This is hollow. Every sentence must earn its place with a specific observation, a real reference, or a genuine insight.
+
+COMPARISON BRANDS AND POSITIONING:
+- Creators I admire but sound different from: Wes Kao (more structured and framework-driven), Lenny Rachman (more data-heavy and analytical),Tommy Ng (more clinical and scenario-driven, contrasts user archetypes 
+  to make a product point. Less personal, more diagnostic.)
+- What makes me different: I write from transition and learning in public, not from authority. My reader is becoming, not arrived. I connect small personal observations to bigger product and brand ideas.
+- Content to never sound like: Generic LinkedIn ghostwriter content, hollow motivational posts, authority-first writing that leads with credentials before insight
