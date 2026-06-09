@@ -7,11 +7,11 @@ def retrieve_brand_context(query: str) -> str:
     try:
         credentials, project = google.auth.default()
         client = discoveryengine.SearchServiceClient(credentials=credentials)
-        serving_config = "projects/441385652994/locations/global/collections/default_collection/dataStores/omni-content-agent-collection_documents/servingConfigs/default_config"
         request = discoveryengine.SearchRequest(
-            serving_config=serving_config,
+            serving_config="projects/441385652994/locations/us/collections/default_collection/dataStores/omni-content-agent-v2_1780394823768/servingConfigs/default_config",
             query=query,
             page_size=5,
+            filter='workspace_id: ANY("93d89c48-f3b2-4075-a3ec-84b17197fb29") AND persona_id: ANY("a770f4b2-00cc-4b04-a3df-389e4526490c")',
             content_search_spec=discoveryengine.SearchRequest.ContentSearchSpec(
                 snippet_spec=discoveryengine.SearchRequest.ContentSearchSpec.SnippetSpec(
                     return_snippet=True,

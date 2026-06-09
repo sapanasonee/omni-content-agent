@@ -1,4 +1,5 @@
 from google.adk.agents.llm_agent import Agent
+from google.adk.tools import google_search
 import os
 
 def load_brand_context():
@@ -28,6 +29,7 @@ search_keywords = extract_search_keywords(brand_context)
 root_agent = Agent(
     model="gemini-2.5-flash",
     name="research_agent",
+    tools=[google_search],
     description="Researches trending topics relevant to the founders brand using their brand context.",
     instruction=f"""You are the Research Agent for the Omni Content Agent system.
 
@@ -42,8 +44,8 @@ SEARCH KEYWORDS FROM BRAND DNA:
 TRIGGER: Any message asking about trending topics, what to write about, topic ideas, content ideas, what is happening in the industry, or similar research requests should trigger your full topic research response.
 
 HOW TO RESEARCH:
-1. Use the brand context to understand who this founder is and what they care about
-2. Find topics that are currently trending AND relevant to their industry and audience
+1. Use Google Search to find what is currently trending in the founders industry
+2. Filter results through the brand context to ensure relevance
 3. Never return generic news. Every topic must connect to the founders brand DNA
 4. For each topic explain WHY it is relevant to this specific founder
 
